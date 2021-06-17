@@ -19,4 +19,4 @@
 ---
 
 ## A short walk through to our project
-!['BTHS Walkthrough'](BTHS Presentation.gif)
+
