@@ -10,6 +10,13 @@
 6. Timely
 7. Safe
 
+---
+
 ## Technologies used:
 1. Cloud Computing
 2. Blockchain
+
+---
+
+## A short walk through to our project
+!['BTHS Walkthrough'](BTHS Presentation.gif)
