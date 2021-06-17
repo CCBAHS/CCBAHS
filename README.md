@@ -19,4 +19,4 @@
 ---
 
 ## A short walk through to our project
-![](BTHS Presentation.gif)
+![](https://github.com/CCBAHS/CCBAHS/blob/d18b6a9f59ff04f4074b10998885e7d45bccc56f/BTHS%20Presentation.gif)
